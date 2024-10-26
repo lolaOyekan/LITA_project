@@ -95,7 +95,7 @@ GROUP BY
 ORDER BY 
     OrderMonth; <<
 
-    vi. Find Top 5 Customers by Total Purchase Amount
+vi. Find Top 5 Customers by Total Purchase Amount
 I determined the top 5 customers based on their total purchase amounts:
 
 = select top 5  "customer id", (quantity * unitprice) as top5customers from Capstone.dbo.customers ORDER BY top5customers DESC <<
