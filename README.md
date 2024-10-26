@@ -1,21 +1,29 @@
 # LITA_Class_Documentation_Process
 
-### Project Title: Beginers guide into Data Analysis
+### Project Title: Retail Sales Analysis
 -----
+
 ### Table of Contents
-> Overview
-> Goals
-> Data
-> Tools
-> Process
-> Findings
-> Results
+1. Overview
+2. Goals
+3. Data
+4. Tools
+5. Process
+6. Findings
+7. Results
 
 ### Project Overview
 ------
-Data analysis involves examining, cleaning, transforming, and modeling data to uncover useful information, draw conclusions, and support decision-making. For beginners, it starts with understanding the types of data like qualitative and quantitative and basic concepts like data collection, data cleaning, and data visualization i.e, using charts and graphs to present data. 
 
-### Data Sources
+This project explores the sales data of a retail store to uncover insights like top-selling products, regional sales performance, and monthly trends. The analysis results are displayed in an interactive Power BI dashboard.
+-----
+
+### Goals
+1. Identify best-selling products.
+2. Compare sales across regions.
+3. Discover monthly sales trends.
+4. Create an interactive Power BI dashboard for easy viewing.
+   
 ------
 The primary data used here comes from an open-source datasets, which were downloaded from the LMS Canvas site. These datasets, carefully curated by the instructors, include query languages and various other resources.
 
