@@ -29,11 +29,12 @@ The primary data used here comes from Capstone dataset, which were downloaded fr
 2. Fields: Product ID, Category, Region, Sales, Date, Quantity Sold.
 ------
 ### Tools
-1. Python & Pandas: Data cleaning and preparation.
-2. Power BI: Dashboard and data visualization.
-3. GitHub: Project storage and sharing.
-
+1. Excel: Data Entry.
+2. SQL: Storing and processing information in a relational database.
+3. Power BI: Dashboard and data visualization.
+4. GitHub: Project storage and sharing.
 -------
+
 
 
 
