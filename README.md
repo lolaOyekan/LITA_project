@@ -27,5 +27,13 @@ The analysis results are displayed in an interactive Power BI.
 The primary data used here comes from Capstone dataset, which were downloaded from the LMS Canvas site. These datasets, carefully curated, include query languages and various other resources.
 1. Source: Provided by Capstone.
 2. Fields: Product ID, Category, Region, Sales, Date, Quantity Sold.
+------
+### Tools
+1. Python & Pandas: Data cleaning and preparation.
+2. Power BI: Dashboard and data visualization.
+3. GitHub: Project storage and sharing.
+
+-------
+
 
 
