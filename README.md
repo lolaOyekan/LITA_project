@@ -1,6 +1,15 @@
 # LITA_Class_Documentation_Process
 
 ### Project Title: Beginers guide into Data Analysis
+-----
+### Table of Contents
+> Overview
+> Goals
+> Data
+> Tools
+> Process
+> Findings
+> Results
 
 ### Project Overview
 ------
