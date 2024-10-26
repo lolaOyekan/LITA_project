@@ -34,7 +34,15 @@ The primary data used here comes from Capstone dataset, which were downloaded fr
 3. Power BI: Dashboard and data visualization.
 4. GitHub: Project storage and sharing.
 -------
-
+### Process
+1. Data Cleaning: Managed missing values and formatted columns.
+2. Exploration: Found key trends by product, region, and month.
+3. Visualization: Created an interactive dashboard in Power BI.
+------
+### Excel Data Exploration
+1. Conducted initial data exploration using pivot tables to summarize total sales by product, region, and month.
+2. Applied Excel formulas to calculate metrics, including average sales per product and total revenue by region, to gain insights into performance across segments.
+   
 
 
 
