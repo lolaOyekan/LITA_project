@@ -41,7 +41,21 @@ The primary data used here comes from Capstone dataset, which were downloaded fr
 ------
 ### Excel Data Exploration
 1. Conducted initial data exploration using pivot tables to summarize total sales by product, region, and month.
-2. Applied Excel formulas to calculate metrics, including average sales per product and total revenue by region, to gain insights into performance across segments.
+2. Applied Excel formulas to calculate metrics, including average sales per product and total revenue by region, to gain insights into performance across segments. (input image here)
+-----
+### SQL Queries for Sales Analysis
+In this project, I used SQL to answer key questions about sales performance. Below are the queries and the logic behind each one;
+
+1. Retrieve Total Sales per Product Category
+I calculated the total sales for each product category to understand which categories generate the most revenue:
+
+= SELECT Product, sum(UnitPrice) AS total_sales
+FROM Capstone.dbo.customers
+GROUP BY Product
+ORDER BY total_sales DESC;
+
+
+
    
 
 
