@@ -1,0 +1,1 @@
+select top 5  "customer id", (quantity * unitprice) as top5customers from Capstone.dbo.customers ORDER BY top5customers DESC
