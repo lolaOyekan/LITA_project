@@ -126,6 +126,7 @@ LEFT JOIN (
 WHERE c2.product IS NULL; <<
 
 ### Power Bi
+--------
 I created a Power BI dashboard by integrating Excel and SQL data to visualize sales performance insights. Here's what I did:
 
 1. Sales Overview: Added cards for total sales, revenue, and transaction count to give a quick performance summary.
